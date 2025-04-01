@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pressed state (visual feedback) -->
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#FF6200EE"/> <!-- 20% opacity of purple_500 -->
+            <size android:width="60dp" android:height="60dp"/>
+            <stroke android:width="2dp" android:color="@color/purple_500"/>
+        </shape>
+    </item>
+
+    <!-- Default inactive state -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent"/>
+            <size android:width="60dp" android:height="60dp"/>
+            <stroke android:width="2dp" android:color="@color/purple_500"/>
+        </shape>
+    </item>
+</selector>

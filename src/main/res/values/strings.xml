@@ -1,0 +1,42 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Braille Big Keys</string>
+
+    <!-- Buttons and labels -->
+    <string name="submit_button_label">Submit</string>
+    <string name="space_button_label">Space</string>
+    <string name="delete_button_label">Delete</string>
+    <string name="mode_switch_label_123">123</string>
+    <string name="mode_switch_label_ABC">ABC</string>
+    <string name="caps_button_label_on">Caps On</string>
+    <string name="caps_button_label_off">Caps Off</string>
+
+    <!-- Instructions or messages -->
+    <string name="enter_braille_instructions">Enter Braille characters using the dots below:</string>
+    <string name="braille_incomplete_message">(Incomplete)</string>
+    <string name="braille_number_mode_message">Switch to Number Mode</string>
+    <string name="braille_uppercase_mode_message">Caps Mode</string>
+    <string name="braille_clear_message">Clear Input</string>
+    <string name="braille_output_message">Output:</string>
+
+    <!-- Error messages -->
+    <string name="error_invalid_input">Invalid Input</string>
+    <string name="error_braille_pattern">Invalid Braille Pattern</string>
+
+    <!-- Miscellaneous -->
+    <string name="app_description">A simple Braille input system with Big Keys for visually impaired users.</string>
+
+    <!-- string resources -->
+    <string name="output_text_hint">Enter Braille text here</string>
+    <string name="dot_1_desc">Dot 1</string>
+    <string name="dot_2_desc">Dot 2</string>
+    <string name="dot_3_desc">Dot 3</string>
+    <string name="dot_4_desc">Dot 4</string>
+    <string name="dot_5_desc">Dot 5</string>
+    <string name="dot_6_desc">Dot 6</string>
+    <string name="submit">Submit</string>
+    <string name="space">Space</string>
+    <string name="delete">Delete</string>
+    <string name="mode_123">123</string>
+    <string name="caps">Caps</string>
+</resources>
